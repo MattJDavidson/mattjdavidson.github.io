@@ -1,10 +1,10 @@
 ---
 layout: post
-title: #SocratesUk Shit Umbrella
+title: #SocratesUk Shit Umbrella 💩 ☂️
 ---
 
 What is a Shit Umbrella?
-A person in a leadership role who shields team members from the day to day strife of interacting directly with less healthy business relationships - especially in more hostile or stressful domains where the business is used to repriotising developers midtask on a whim.
+A person in a leadership role who shields team members from the day to day strife of interacting directly with less healthy business relationships - especially in more hostile or stressful domains where the business is used to reprioritising developers midtask on a whim.
 
 1. Shielding is a more business friendly metaphor. Shit is a leaky abstraction.
 1. Being a shit umbrella is a subset of the umbrellas of servant leadership.
