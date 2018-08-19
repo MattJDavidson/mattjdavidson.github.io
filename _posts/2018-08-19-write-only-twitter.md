@@ -21,8 +21,6 @@ This should help to:
 1. Write intentional tweets on twitter's website
 1. Interact with twitter notifications via email
 1. Only read a weekly email summary of popular tweets (hopefully lessens the feeling of [fomo](https://en.wikipedia.org/wiki/Fear_of_missing_out) on twitter)
-1. Have the confidence to delete twitter from my phone too
-
-Hopefully this will help others too. 
+1. Have the confidence to delete twitter from my phone too 
 
 P.S. something like [SelfControl](https://selfcontrolapp.com/) is very effective for reducing general procrastination website use, especially reddit!
