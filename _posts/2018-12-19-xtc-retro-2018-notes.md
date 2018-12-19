@@ -7,7 +7,7 @@ On Tuesday 18th December 2018 [XTC held a
 retrospective](https://www.meetup.com/en-AU/eXtreme-Tuesday-Club-XTC/events/ncwwmqyxqbxb/).
 
 Attendees were asked to create sticky notes to prompt discussion. Sticky notes
-could be labelled as positives, negatives, questions or ideas.
+could be labeled as positives, negatives, questions or ideas.
 
 I've written my notes from each of the more detailed discussions, images of the sticky notes should be viewable on twitter.
 
@@ -27,7 +27,7 @@ I've written my notes from each of the more detailed discussions, images of the 
 1. Running a retro 3-6 months was suggested
 1. Running something retroish every week was suggested and disagreed with (even by the proposer).
 1. Are the retros useful? Do we learn anything from them? We have mostly the same complaints as last year.
-1. Are we hapyp enough with how successful XTC is?
+1. Are we happy enough with how successful XTC is?
 1. Perceptions of XTC's success aren't universally common.
 1. 3 or 6 months was agreed to be a useful frequency.
 1. Organisers could retro more frequently to be more resilient to Joe's departure.
@@ -50,7 +50,7 @@ I've written my notes from each of the more detailed discussions, images of the 
 ## Size & Venue
 1. Size (attendance) has been good
 1. Sharing the room on the night of the retro was annoying (but it is the week before Christmas, and there was a low turnout).
-1. A venue with stairs is dissapointingly inaccessible for some.
+1. A venue with stairs is disappointingly inaccessible for some.
 1. Somewhere like skillsmatter could be a little impersonal
 1. XTC has been traditionally held in a pub
 1. Pizza is tasty, but too frequently eaten.
@@ -58,6 +58,7 @@ I've written my notes from each of the more detailed discussions, images of the 
 1. Current location feels like someone's house. It's cosy and comfortable.
 1. Quiet is good.
 1. Counting House or Bank of England were viewed as being good venues.
+1. Constantina suggested "The Victoria" in East London, but it may be a bit far out.
 1. XTC is open to suggestions, but it needs to be quiet, have decent beer and food, be in a central location etc.
 
 ## XTC format
@@ -65,7 +66,7 @@ I've written my notes from each of the more detailed discussions, images of the 
 1. Can we do some more hands on coding?
 1. Informal discussions and socialising are key
 1. Could we run Open sessions every other week? Is this just going to the pub?
-1. Guy offered to help Matt run 5 Why's on regularly suggested but rarely picked sessions, i.e. XTC clinic
+1. Guy offered to help Matt run 5 Whys on regularly suggested but rarely picked sessions, i.e. XTC clinic
 1. Templates for interesting sessions/fall back ideas can be stored on the wiki
 1. If you want a different format, run a different format.
 
