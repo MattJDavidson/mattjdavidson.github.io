@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Extreme Tuesday Club: 2018 Retrospective
+title: Extreme Tuesday Club 2018 Retrospective
 ---
 
 On Tuesday 18th December 2018 [XTC held a
