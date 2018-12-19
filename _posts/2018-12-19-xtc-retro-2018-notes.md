@@ -9,7 +9,7 @@ retrospective](https://www.meetup.com/en-AU/eXtreme-Tuesday-Club-XTC/events/ncww
 Attendees were asked to create sticky notes to prompt discussion. Sticky notes
 could be labeled as positives, negatives, questions or ideas.
 
-I've written my notes from each of the more detailed discussions, images of the sticky notes should be viewable on twitter.
+I've written my notes from each of the more detailed discussions, [images of the sticky notes should be viewable on twitter](https://twitter.com/matt_davidson_/status/1075325358533165056).
 
 [Here's a link ](https://exubero.com/2017/12/27/extreme-tuesday-club-2017-retrospective/)to previous retro notes to see how much learning has taken place.
 
