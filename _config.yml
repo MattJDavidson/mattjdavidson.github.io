@@ -6,7 +6,7 @@
 name: Matt J Davidson Blog
 
 # Short bio or description (displayed in the header)
-description: Tech Lead, Software Developer and Agile Coach from Elgin, Scotland.
+description: Software Professional working remotely from the UK and South Africa.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars1.githubusercontent.com/u/3749301?s=400&u=28c8bb9d91b6c004646f7bcc10dc53f095185206&v=4
@@ -22,19 +22,15 @@ footer-links:
   facebook:
   flickr:
   github: MattJDavidson
-  instagram: matt.j.davidson
   linkedin: mattjamesdavidson
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: matt_davidson_
   stackoverflow: "users/2125094/matt-davidson"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
-
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus: MattJDavidson
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
@@ -66,7 +62,7 @@ kramdown:
   syntax_highlighter: rouge
   syntax_highlighter_opts:
     # Use existing pygments syntax highlighting css
-    css_class: 'highlight'
+    css_class: "highlight"
 
 # Set the Sass partials directory, as we're using @imports
 sass:
